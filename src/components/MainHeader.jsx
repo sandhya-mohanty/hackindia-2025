@@ -1,7 +1,7 @@
 import React from 'react'
 import { motion } from "framer-motion";
 import logo from "../assets/images/logo.png"
-import Button from './button';
+import Button from './Button';
 const MainHeader = () => {
   return (
     <div>

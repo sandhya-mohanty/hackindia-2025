@@ -1,7 +1,7 @@
 
 import React from "react";
 import { motion } from "framer-motion";
-import Button from "./button";
+import Button from "./Button";
 import Header from "./Header";
 import singularityLogo from "../assets/images/singularityLogo.png"
 const Hero = () => {
